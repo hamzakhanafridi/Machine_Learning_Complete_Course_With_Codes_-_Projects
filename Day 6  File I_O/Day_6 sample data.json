@@ -1,0 +1,13 @@
+{
+    "address": {
+        "city": "peshawar",
+        "country": "pakistan"
+    },
+    "is": true,
+    "name": "Hamza",
+    "new_name": "afridi",
+    "subject": [
+        "machine learning",
+        "data science"
+    ]
+}
