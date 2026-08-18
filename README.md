@@ -5,3 +5,5 @@
 - Day 2,3,4 is the python part of that course in which i cover complete python code which is necessary for Machine Learning, Data Science and AI
 - Day 5 cover all related things regarding OOP(Object Oriented Programming)
 - Day 6 contain all details about File I/O (File input and output)
+- Day 7  is the installation of anaconda, jupyter lab and jupyter notebook for making the environment ready for machine learning and ai
+- Day 8 is all related to data cleaning missing values handling and getting some meaningful insights from that data
