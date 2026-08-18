@@ -1,0 +1,12 @@
+[
+{"name":"Alice","rating":"5","feedback":"Excellent product!","age":"25"},
+{"name":"Bob","rating":"four","feedback":"Good product"},
+{"name":"Charlie","rating":"two","feedback":"Not satisfied","age":"22"},
+{"name":"Diana","rating":"5","feedback":"Loved it!","age":"28"},
+{"name":"Eve","rating":"3.5","feedback":"Average experience"},
+{"name":"Alice","rating":"4","feedback":"Very useful","age":"42"},
+{"name":"Grace","rating":"5","feedback":"Amazing quality!","age":"27"},
+{"name":"Henry","rating":"2.5","feedback":"Could be better","age":"31"},
+{"name":"Ivy","rating":"4.5","feedback":"Really good","age":"24"},
+{"name":"Jack","rating":"3","feedback":"It was okay","age":"38"}
+]
