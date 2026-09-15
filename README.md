@@ -7,3 +7,6 @@
 - Day 6 contain all details about File I/O (File input and output)
 - Day 7  is the installation of anaconda, jupyter lab and jupyter notebook for making the environment ready for machine learning and ai
 - Day 8 is all related to data cleaning missing values handling and getting some meaningful insights from that data
+
+
+-- Day 20, 21 and 22 is related to Math behind AI and Machine learning in which i learn about Statistics , Calculus and Linear Algebra related all topics 
